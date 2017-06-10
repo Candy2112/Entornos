@@ -1,5 +1,6 @@
 package refactorizacion;
 
-public class Entorno {
-
+public class Entorno 
+{
+	// Esto es una prueba para la práctica
 }
